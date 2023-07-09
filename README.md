@@ -50,8 +50,6 @@ Clone this repository to your desired folder:
 
 ### Usage
 
--  `Create database`
-
 - `To run the project, execute the following command:`
  ```
       npm run start
