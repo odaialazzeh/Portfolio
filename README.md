@@ -17,6 +17,10 @@
 - About Me/Bio.
 - Contact Information.
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://odaialazzeh.onrender.com)
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
