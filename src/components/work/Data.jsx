@@ -59,6 +59,7 @@ export const projectsData = [
     image: Work7,
     title: 'E-commerce shop',
     category: 'MERN',
+    link: 'https://proshop-fd1w.onrender.com',
     github: 'https://github.com/odaialazzeh/Ecommerce-shop',
   },
 ];
