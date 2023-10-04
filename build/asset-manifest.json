@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ae5c89af.css",
-    "main.js": "/static/js/main.f165a2cb.js",
+    "main.js": "/static/js/main.ac441679.js",
     "static/media/work2.gif": "/static/media/work2.c19ef547361e932fc5af.gif",
     "static/media/work1.gif": "/static/media/work1.73aa31058640f04a21b5.gif",
     "static/media/work4.gif": "/static/media/work4.b5539b56602c1cb19c8b.gif",
@@ -13,10 +13,10 @@
     "static/media/Odai-cv.pdf": "/static/media/Odai-cv.f02a126f323a96d2a736.pdf",
     "index.html": "/index.html",
     "main.ae5c89af.css.map": "/static/css/main.ae5c89af.css.map",
-    "main.f165a2cb.js.map": "/static/js/main.f165a2cb.js.map"
+    "main.ac441679.js.map": "/static/js/main.ac441679.js.map"
   },
   "entrypoints": [
     "static/css/main.ae5c89af.css",
-    "static/js/main.f165a2cb.js"
+    "static/js/main.ac441679.js"
   ]
 }
